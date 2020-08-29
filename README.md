@@ -22,8 +22,3 @@ To save your progress, use the Save button. Your song will be saved as a text fi
 
 You can load a previously saved song by loading the text file using the Load File button. WARNING: doing so will overwrite any current progress. 
 
-## TODOs
-- Highlight tines in txt file
-- Options for half and whole notes
-- Play function to hear current progress
-- Save to pdf or doc rather than .txt file
