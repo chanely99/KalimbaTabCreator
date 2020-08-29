@@ -7,7 +7,7 @@ To use the application, simply download the KalimbaTabCreator.app, then double c
 
 Application will look like this: 
 
-<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/main.png" width=200>
+<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/main.png" width=400>
 
 To add a note, just click the appropriate square, and a black dot will appear. To erase, just click again. 
 
@@ -16,9 +16,9 @@ To add additional measures, click on the Add Measure button.
 
 To save your progress, use the Save button. Your song will be saved as a text file. To best read the text file, use a text editor with a monospace font. 
 
-<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/save.png" width=200>
+<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/save.png" width=300>
 
-<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/tab.png" width=200>
+<img src= "https://github.com/chanely99/KalimbaTabCreator/blob/master/images/tab.png" width=400>
 
 You can load a previously saved song by loading the text file using the Load File button. WARNING: doing so will overwrite any current progress. 
 
